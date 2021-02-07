@@ -27,3 +27,7 @@
 4. Create bookings using the '/booking' endpoint here on! Yay!
 
 < Hint: Uncomment the 'BookingControllerTest.java' file to run the test cases !>
+
+##Requirements
+1. Apache Maven 3.6+
+2. Java 8 (jdk 1.8)
