@@ -5,6 +5,7 @@
 2. Cities and Booking entities are managed to track count of vehicles.
 3. Fares are hard-coded during the intialization process.
 4. Cities hard-coded during Intialization are "Delhi", "Mumbai", "Bangalore", "Test-1" and "Test-2"
+5. Travel time between all cities is assumed to be 1 day
 
 ##How to build and run the program?
 1. Clone the repository into local
